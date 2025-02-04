@@ -10,6 +10,7 @@ public class MsTestGradle1Application {
 		SpringApplication.run(MsTestGradle1Application.class, args);
 		System.out.println("hellow Everyone This The Fist Application ");
 		System.out.println("Based on the Some Git repository Cheaking purpose");
+		System.err.println("Welcome to the SstPath");
 	}
 
 }
