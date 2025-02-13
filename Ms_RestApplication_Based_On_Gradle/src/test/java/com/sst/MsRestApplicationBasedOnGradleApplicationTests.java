@@ -1,10 +1,10 @@
-package com.nit;
+package com.sst;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MsTestGradle1ApplicationTests {
+class MsRestApplicationBasedOnGradleApplicationTests {
 
 	@Test
 	void contextLoads() {
